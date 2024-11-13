@@ -1,0 +1,1 @@
+export const getCommonText = () => 'common 패키지에서 실행되었음.';
